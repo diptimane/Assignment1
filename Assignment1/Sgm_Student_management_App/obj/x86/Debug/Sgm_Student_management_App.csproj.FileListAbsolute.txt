@@ -1,0 +1,11 @@
+E:\study\Assignment 1\Sgm_Student_management_App\Sgm_Student_management_App\bin\Debug\Sgm_Student_management_App.exe
+E:\study\Assignment 1\Sgm_Student_management_App\Sgm_Student_management_App\bin\Debug\Sgm_Student_management_App.pdb
+E:\study\Assignment 1\Sgm_Student_management_App\Sgm_Student_management_App\obj\x86\Debug\Sgm_Student_management_App.Frm_login.resources
+E:\study\Assignment 1\Sgm_Student_management_App\Sgm_Student_management_App\obj\x86\Debug\Sgm_Student_management_App.Properties.Resources.resources
+E:\study\Assignment 1\Sgm_Student_management_App\Sgm_Student_management_App\obj\x86\Debug\Sgm_Student_management_App.csproj.GenerateResource.Cache
+E:\study\Assignment 1\Sgm_Student_management_App\Sgm_Student_management_App\obj\x86\Debug\Sgm_Student_management_App.exe
+E:\study\Assignment 1\Sgm_Student_management_App\Sgm_Student_management_App\obj\x86\Debug\Sgm_Student_management_App.pdb
+E:\study\Assignment 1\Sgm_Student_management_App\Sgm_Student_management_App\obj\x86\Debug\Sgm_Student_management_App.frm_Add_New_Student_Details.resources
+E:\study\Assignment 1\Sgm_Student_management_App\Sgm_Student_management_App\obj\x86\Debug\Sgm_Student_management_App.csprojResolveAssemblyReference.cache
+E:\study\Assignment 1\Sgm_Student_management_App\Sgm_Student_management_App\obj\x86\Debug\Sgm_Student_management_App.frm_View_All_Student_list.resources
+E:\study\Assignment 1\Sgm_Student_management_App\Sgm_Student_management_App\bin\Debug\Sgm_Student_management_App.exe.config
