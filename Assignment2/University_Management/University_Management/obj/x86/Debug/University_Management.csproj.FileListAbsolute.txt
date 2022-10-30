@@ -1,0 +1,12 @@
+E:\study\Assingment2\University_Management\University_Management\bin\Debug\University_Management.exe
+E:\study\Assingment2\University_Management\University_Management\bin\Debug\University_Management.pdb
+E:\study\Assingment2\University_Management\University_Management\obj\x86\Debug\University_Management.frm_Login.resources
+E:\study\Assingment2\University_Management\University_Management\obj\x86\Debug\University_Management.Properties.Resources.resources
+E:\study\Assingment2\University_Management\University_Management\obj\x86\Debug\University_Management.csproj.GenerateResource.Cache
+E:\study\Assingment2\University_Management\University_Management\obj\x86\Debug\University_Management.exe
+E:\study\Assingment2\University_Management\University_Management\obj\x86\Debug\University_Management.pdb
+E:\study\Assingment2\University_Management\University_Management\obj\x86\Debug\University_Management.frm_Add_New_Student.resources
+E:\study\Assingment2\University_Management\University_Management\obj\x86\Debug\University_Management.frm_Search_Student_Details.resources
+E:\study\Assingment2\University_Management\University_Management\obj\x86\Debug\University_Management.frm_View_Student_Details.resources
+E:\study\Assingment2\University_Management\University_Management\bin\Debug\University_Management.exe.config
+E:\study\Assingment2\University_Management\University_Management\obj\x86\Debug\University_Management.csprojResolveAssemblyReference.cache
